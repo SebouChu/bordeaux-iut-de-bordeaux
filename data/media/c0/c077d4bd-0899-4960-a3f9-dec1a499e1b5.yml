@@ -5,6 +5,6 @@ width: 119
 height: 119
 ratio: 1.0
 format: square
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMwNzdkNGJkLTA4OTktNDk2MC1hM2Y5LWRlYzFhNDk5ZTFiNSIsInB1ciI6ImJsb2JfaWQifX0=--bc45fac44fec1266b7279acfbb7678e8e5c7940d/2024_04_Planche_Pictos_rvb_BSS-advanced-mass-spectrometry.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/cds6jwu6xfqn4og873rmjy1avfkf
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMwNzdkNGJkLTA4OTktNDk2MC1hM2Y5LWRlYzFhNDk5ZTFiNSIsInB1ciI6ImJsb2JfaWQifX0=--d83ea43dc0ed4623a58a87cbc45c7ac509c18903/2024_04_Planche_Pictos_rvb_BSS-advanced-mass-spectrometry.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/cds6jwu6xfqn4og873rmjy1avfkf
 

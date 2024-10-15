@@ -5,6 +5,6 @@ width: 119
 height: 119
 ratio: 1.0
 format: square
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkMzYyMDlmLWRlOTgtNDZlOC1iMTM2LTJjOGFhZTcwZTIwOCIsInB1ciI6ImJsb2JfaWQifX0=--26826e85f1f1a30b23745a5ca59e30d6b9002c6f/2024_04_Planche_Pictos_rvb_retrospective03.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/vtakwvwnk3fdrapfhkwbdg1jxouc
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkMzYyMDlmLWRlOTgtNDZlOC1iMTM2LTJjOGFhZTcwZTIwOCIsInB1ciI6ImJsb2JfaWQifX0=--225cd10618bbe11727b67a5b84f34819e3cb0ac1/2024_04_Planche_Pictos_rvb_retrospective03.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/vtakwvwnk3fdrapfhkwbdg1jxouc
 
