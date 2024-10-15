@@ -5,6 +5,6 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkOTJmNzQ1LWUyYzQtNGQxZS1iZWZkLWNkYThiZDQ5ODkwNiIsInB1ciI6ImJsb2JfaWQifX0=--d824303dc6847588c0dbf74aefaf35e3b27bf161/Actus-Osuny-1.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/nacsb8esugr6syobgnwq6wj4time
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkOTJmNzQ1LWUyYzQtNGQxZS1iZWZkLWNkYThiZDQ5ODkwNiIsInB1ciI6ImJsb2JfaWQifX0=--b6584baa5c51cd0b03e702110c183e1642d7c148/Actus-Osuny-1.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/nacsb8esugr6syobgnwq6wj4time
 

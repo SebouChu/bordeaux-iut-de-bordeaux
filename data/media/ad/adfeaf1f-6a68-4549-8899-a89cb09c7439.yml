@@ -5,6 +5,6 @@ width: 1024
 height: 1024
 ratio: 1.0
 format: square
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFkZmVhZjFmLTZhNjgtNDU0OS04ODk5LWE4OWNiMDljNzQzOSIsInB1ciI6ImJsb2JfaWQifX0=--1e8c56910cc63e046063f673d640f075494f06d9/IMG_4793-1536x1024.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/qa5zcql6gf0487214dew4bjgbjgy
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFkZmVhZjFmLTZhNjgtNDU0OS04ODk5LWE4OWNiMDljNzQzOSIsInB1ciI6ImJsb2JfaWQifX0=--397f0eed9aee68deabaf196316695496e8ba6bfa/IMG_4793-1536x1024.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qa5zcql6gf0487214dew4bjgbjgy
 

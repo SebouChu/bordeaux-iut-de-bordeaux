@@ -5,6 +5,6 @@ width: 2500
 height: 1667
 ratio: 1.4997000599880024
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg2MTYzNzk5LTIzNGUtNGRkNi05ODIwLTIxNThmZmZiNmYxOCIsInB1ciI6ImJsb2JfaWQifX0=--521a554722b615051af2c1054ff25a058a1a180d/IUT-CA-3.JPG
-direct_url: https://osuny.s3.fr-par.scw.cloud/fhpwmaw0cpoce9087jtxy45jiepe
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg2MTYzNzk5LTIzNGUtNGRkNi05ODIwLTIxNThmZmZiNmYxOCIsInB1ciI6ImJsb2JfaWQifX0=--e3574e2046c353fdf8341581848c70d0f45707c2/IUT-CA-3.JPG
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/fhpwmaw0cpoce9087jtxy45jiepe
 
