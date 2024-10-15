@@ -5,6 +5,6 @@ width: 2500
 height: 1665
 ratio: 1.5015015015015014
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZmYWU4YjQzLTljMGUtNDIxNS1hZTQ4LTkyNDdhYmY1NTRlYiIsInB1ciI6ImJsb2JfaWQifX0=--65b22b20bb7cab60498e361997c1007af32823ed/IUT-Campus-Agen-Michel-SERRES-2023-225-Gautier-DUFAU.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/5upsm95e71bwqx0bc6mzxlwh1bi6
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZmYWU4YjQzLTljMGUtNDIxNS1hZTQ4LTkyNDdhYmY1NTRlYiIsInB1ciI6ImJsb2JfaWQifX0=--b8977dff6bc3d476e237782c8a63b60a78e0824b/IUT-Campus-Agen-Michel-SERRES-2023-225-Gautier-DUFAU.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/5upsm95e71bwqx0bc6mzxlwh1bi6
 

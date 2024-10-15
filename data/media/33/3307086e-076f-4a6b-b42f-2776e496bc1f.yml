@@ -2,6 +2,6 @@
 name: report-GB_SAB_24.pdf
 size: 583780
 format: square
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMzMDcwODZlLTA3NmYtNGE2Yi1iNDJmLTI3NzZlNDk2YmMxZiIsInB1ciI6ImJsb2JfaWQifX0=--340025397deda3cfc1158e772206e7e7d4f20c4b/report-GB_SAB_24.pdf
-direct_url: https://osuny.s3.fr-par.scw.cloud/oxyqqwisgg4giq8h9y52aewxr4ws
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMzMDcwODZlLTA3NmYtNGE2Yi1iNDJmLTI3NzZlNDk2YmMxZiIsInB1ciI6ImJsb2JfaWQifX0=--f20ad285f0c3a5a9302690a45df761708b428346/report-GB_SAB_24.pdf
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/oxyqqwisgg4giq8h9y52aewxr4ws
 

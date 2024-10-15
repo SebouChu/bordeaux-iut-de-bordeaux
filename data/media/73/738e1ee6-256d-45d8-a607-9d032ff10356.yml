@@ -5,6 +5,6 @@ width: 2351
 height: 1574
 ratio: 1.4936467598475223
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjczOGUxZWU2LTI1NmQtNDVkOC1hNjA3LTlkMDMyZmYxMDM1NiIsInB1ciI6ImJsb2JfaWQifX0=--c861f16122fff375f82afb96dd6d1697be929768/CPA-LP_PERIGUEUX_CPA_04.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/v4ugzuemnb6cdptpff4iair5trk6
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjczOGUxZWU2LTI1NmQtNDVkOC1hNjA3LTlkMDMyZmYxMDM1NiIsInB1ciI6ImJsb2JfaWQifX0=--0bfbe42896b87ae9bb021be1afb543c80e6d3613/CPA-LP_PERIGUEUX_CPA_04.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/v4ugzuemnb6cdptpff4iair5trk6
 
