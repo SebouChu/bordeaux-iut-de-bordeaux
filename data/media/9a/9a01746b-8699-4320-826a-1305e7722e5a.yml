@@ -5,6 +5,6 @@ width: 500
 height: 540
 ratio: 0.9259259259259259
 format: portrait
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlhMDE3NDZiLTg2OTktNDMyMC04MjZhLTEzMDVlNzcyMmU1YSIsInB1ciI6ImJsb2JfaWQifX0=--32b1983fea83711edb757a54b4a396fa6c09ec0c/Yvan-Sivilier3.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/3xdkhefkf5mdjl3vun26icaxgzfs
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlhMDE3NDZiLTg2OTktNDMyMC04MjZhLTEzMDVlNzcyMmU1YSIsInB1ciI6ImJsb2JfaWQifX0=--4304931f6b7a40de828805e551f86fa4ed938b9d/Yvan-Sivilier3.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/3xdkhefkf5mdjl3vun26icaxgzfs
 

@@ -5,6 +5,6 @@ width: 2500
 height: 1664
 ratio: 1.5024038461538463
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU2YjRhOTMzLWY1ODktNDgzNS05NDRkLWNkZTU4MTA2ZWQ1ZiIsInB1ciI6ImJsb2JfaWQifX0=--1a45a9df4a574c6f1405e5ff74bab1b1f742b82c/251121-UB-IUT_Gradignan_Shoot1-073.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/m4m8ldm7qlpqknq9qi9pq52e03zi
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU2YjRhOTMzLWY1ODktNDgzNS05NDRkLWNkZTU4MTA2ZWQ1ZiIsInB1ciI6ImJsb2JfaWQifX0=--ba0cb71b925740157b8da9067b2f0c43d07ce3a8/251121-UB-IUT_Gradignan_Shoot1-073.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/m4m8ldm7qlpqknq9qi9pq52e03zi
 

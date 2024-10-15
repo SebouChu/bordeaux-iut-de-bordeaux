@@ -5,6 +5,6 @@ width: 1707
 height: 2560
 ratio: 0.666796875
 format: portrait
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxOTFjYThhLTYwYzctNDYwNC1hYWE2LWY4NjQ2ZmIwMzlkMSIsInB1ciI6ImJsb2JfaWQifX0=--f355ecdb037754542c2984f683a82c4c79c4f67e/candidat-etranger.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/kowdhmpm2is60c47w54le4n86grg
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxOTFjYThhLTYwYzctNDYwNC1hYWE2LWY4NjQ2ZmIwMzlkMSIsInB1ciI6ImJsb2JfaWQifX0=--297910f8e91ca48d860f7ed7112e512f5bc11276/candidat-etranger.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/kowdhmpm2is60c47w54le4n86grg
 

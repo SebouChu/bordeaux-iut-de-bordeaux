@@ -5,6 +5,6 @@ width: 2500
 height: 1667
 ratio: 1.4997000599880024
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZlNjA1NzFmLTA3MDAtNGViNC05Y2Y4LWZhZWRhOTA2OTg4NCIsInB1ciI6ImJsb2JfaWQifX0=--ab1fba87b1f05ce393b5f2e7afcc367a72006a01/IUT-Campus-Gradignan-2023-719-Gautier-DUFAU.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/gwoql5ph51tp477t80yqi1gbjqd1
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZlNjA1NzFmLTA3MDAtNGViNC05Y2Y4LWZhZWRhOTA2OTg4NCIsInB1ciI6ImJsb2JfaWQifX0=--98169965d6883a5b2ae0ea6632154901d395268c/IUT-Campus-Gradignan-2023-719-Gautier-DUFAU.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/gwoql5ph51tp477t80yqi1gbjqd1
 
