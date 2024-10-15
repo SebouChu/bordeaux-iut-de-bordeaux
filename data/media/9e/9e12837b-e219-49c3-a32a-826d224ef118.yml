@@ -5,6 +5,6 @@ width: 2500
 height: 1663
 ratio: 1.503307276007216
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjllMTI4MzdiLWUyMTktNDljMy1hMzJhLTgyNmQyMjRlZjExOCIsInB1ciI6ImJsb2JfaWQifX0=--f9deab2bf8a3fb9fbb65e77cc1b9a301a0ecde38/TC-P-181021-UB-CampusPerigueux-082.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/0p4nqrfiaikuxukqdrkcz9cvj7gy
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjllMTI4MzdiLWUyMTktNDljMy1hMzJhLTgyNmQyMjRlZjExOCIsInB1ciI6ImJsb2JfaWQifX0=--83eb8a81d9e13c582950c819faa4ee68584de24a/TC-P-181021-UB-CampusPerigueux-082.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/0p4nqrfiaikuxukqdrkcz9cvj7gy
 

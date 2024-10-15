@@ -2,6 +2,6 @@
 name: document_pdf_vide.pdf
 size: 15939
 format: square
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijc2Mjk5MThkLTZiNjUtNDllZS04YTJkLWNmMThlNGE5NTU3OCIsInB1ciI6ImJsb2JfaWQifX0=--f01f4130fc3af3a69ee74672b3225b00e426005f/document_pdf_vide.pdf
-direct_url: https://osuny.s3.fr-par.scw.cloud/3i33kz8uw3v7j3k7bz9sy8ps9o03
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijc2Mjk5MThkLTZiNjUtNDllZS04YTJkLWNmMThlNGE5NTU3OCIsInB1ciI6ImJsb2JfaWQifX0=--cf1b395583e2b34aaa8365b19a80c88c6b82fbbb/document_pdf_vide.pdf
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/3i33kz8uw3v7j3k7bz9sy8ps9o03
 

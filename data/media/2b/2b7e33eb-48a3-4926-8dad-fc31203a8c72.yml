@@ -5,6 +5,6 @@ width: 4632
 height: 1457
 ratio: 3.1791352093342486
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJiN2UzM2ViLTQ4YTMtNDkyNi04ZGFkLWZjMzEyMDNhOGM3MiIsInB1ciI6ImJsb2JfaWQifX0=--a27746c641450b5c326730041041dd67057f701d/logo-Fablab-cohabit.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/uvouq57kwcyan4nr4rffd66wb74l
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJiN2UzM2ViLTQ4YTMtNDkyNi04ZGFkLWZjMzEyMDNhOGM3MiIsInB1ciI6ImJsb2JfaWQifX0=--e02981554467765da499335e69579855735f4f58/logo-Fablab-cohabit.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/uvouq57kwcyan4nr4rffd66wb74l
 

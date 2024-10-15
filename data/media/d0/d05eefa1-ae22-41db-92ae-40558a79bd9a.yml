@@ -5,6 +5,6 @@ width: 1598
 height: 1142
 ratio: 1.3992994746059544
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwNWVlZmExLWFlMjItNDFkYi05MmFlLTQwNTU4YTc5YmQ5YSIsInB1ciI6ImJsb2JfaWQifX0=--2dcc1f1263c2302177f10f41d3aaba4886d22162/55477eabd3a723c7e40133afd6a91aaa.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/28p0o5hvd1nuav771pen7jf7ncul
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwNWVlZmExLWFlMjItNDFkYi05MmFlLTQwNTU4YTc5YmQ5YSIsInB1ciI6ImJsb2JfaWQifX0=--7d1be3efdc513672999123ead16cf1c437c8c124/55477eabd3a723c7e40133afd6a91aaa.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/28p0o5hvd1nuav771pen7jf7ncul
 

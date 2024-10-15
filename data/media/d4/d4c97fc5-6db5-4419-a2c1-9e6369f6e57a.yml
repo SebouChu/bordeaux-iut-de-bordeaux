@@ -5,6 +5,6 @@ width: 1027
 height: 681
 ratio: 1.5080763582966226
 format: landscape
-url: https://bordeaux.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ0Yzk3ZmM1LTZkYjUtNDQxOS1hMmMxLTllNjM2OWY2ZTU3YSIsInB1ciI6ImJsb2JfaWQifX0=--e8f61f07b00cdf9a76590727f46c1a9db459045d/aop-cours-multimedia.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/r63gcxjpfub0we88vgfi8687qfcm
+url: http://bordeaux.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ0Yzk3ZmM1LTZkYjUtNDQxOS1hMmMxLTllNjM2OWY2ZTU3YSIsInB1ciI6ImJsb2JfaWQifX0=--5e52c9a4ab8049c200b93b916ccee29d10fc78ff/aop-cours-multimedia.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/r63gcxjpfub0we88vgfi8687qfcm
 
